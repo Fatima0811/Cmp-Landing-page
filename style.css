@@ -45,7 +45,7 @@
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), 
-                url('image.jpg'); /* Replace with your image */
+                url('image1.jpg'); /* Replace with your image */
     background-size: cover;
     background-position: center;
     display: flex;
@@ -330,4 +330,5 @@
         flex-direction: column;
     }
     .contact { padding: 50px 20px; }
+
 }
